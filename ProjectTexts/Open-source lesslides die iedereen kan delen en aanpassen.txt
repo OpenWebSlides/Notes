@@ -1,0 +1,31 @@
+---------------------------------------------------------
+Open-source lesslides die iedereen kan delen en aanpassen
+---------------------------------------------------------
+
+Gedaan met lelijke, verwarrende en gesloten PowerPoint-slides. Ik stel voor om lesmateriaal zoals slides open-source te maken en ze in een online samenwerkingsplatform te plaatsen. Dan kunnen studenten comments posten, vragen stellen, en aanpassingen voorstellen. De beste lesgevers leren immers van hun van hun studenten, dus waarom passen we dit principe ook niet toe op slides, hét meestgebruikte lesmateriaal?
+
+Ik stel voor om slides in HTML te maken, de manier waarop ook websites in elkaar zitten. De voordelen van HTML zijn:
+- Slides zijn leesbaar op ieder toestel – ook mobiel.
+- Aangezien HTML focust op de structuur in plaats van op de opmaak, krijg je eenvoudigere slides die er minder verwarrend uitzien.
+- Voeg met gemak YouTube-filmpje, tweets uit Twitter, interactieve webpagina's toe aan slides. Alles wat op het Web staat, kan je gebruiken!
+- Je kan slides bewerken in je favoriete programma.
+- Samenwerken is eenvoudig: het is makkelijk om aanpassingen te integreren van anderen.
+- Zien ze er toch verwarrend uit? Dan pas je ze eenvoudig aan!
+Beeld je in dat 5 mensen elk 2 veranderingen doorvoeren aan een presentatie gemaakt in PowerPoint… hoe kan je daar ooit een consistentie versie uit samenstellen? Met HTML gaat dat zeer makkelijk: de bronbestanden zijn gewone tekst waarin je eenvoudig kan knippen en plakken. HTML verlaagt de drempel om aanpassingen toe te laten.
+
+Als samenwerkingsplatform stel ik GitHub voor. Dit is een online community waarop al tienduizenden softwareprojecten gedeeld worden (en slides zijn software). Een project heeft doorgaans maximaal een handvol auteurs, maar verschillende contributors die comments posten en suggesties sturen. Als auteur kan je die suggesties meteen doorvoeren, of nog verder aanpassen. Het werkt volledig gedecentraliseerd, dus je slides blijven de jouwe, en je kan ze later elders plaatsen.
+
+
+
+BETERE EN DUIDELIJKERE SLIDES DOOR DIRECTE FEEDBACK
+Veel slides die in lessen terechtkomen zijn voor verbetering vatbaar. De drempel om feedback te geven hierop is echter vrij hoog. Door slides op een online samenwerkingsplatform te plaatsen, nodigt de lesgever iedereen uit om suggesties voor te stellen – direct al tijdens de les, of meteen erna. Tegen de volgende les kan er al een update zijn.
+
+SLIDES ZIJN NIET LANGER EENRICHTINGSVERKEER
+Met open slides kunnen studenten zelf suggesties doen voor de inhoud: voorbeelden die dichter bij hun leefwereld staan, een relevant boek dat ze gelezen hebben, een nieuw artikel dat ze willen discussiëren
+
+KENNIS DELEN MET DE HELE WERELD
+Als lesgevers hun slides openstellen, kan de kennis zich buiten de universiteitsmuren verspreiden. Maar even belangrijk: dan kan kennis van buiten de universiteitsmuren binnenkomen. Open betekent dat iedereen een bijdrage kan leveren, waardoor lesmateriaal geverifieerd en aangevuld kan worden in een internationale context.
+
+
+
+Dit idee volgt de voetsporen van de open-source community voor software: de bronmaterialen van ontelbare softwareprojecten zijn reeds publiek beschikbaar, zodat iedereen deze beter kan maken. Net zoals dit de kwaliteit en visibiliteit van deze software verbetert, ben ik er rotsvast van overtuigd dat we net hetzelfde kunnen doen met onze lessen. HTML-slides zijn immers ook gewoon bronbestanden. Bovendien verkleint het de afstand tussen lesgevers, studenten en lesmateriaal, aangezien we dan allen in dialoog interageren met de slides.
